@@ -1,0 +1,11 @@
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Training outputs
+runs/
+datasets/
+__pycache__/
+*.log
